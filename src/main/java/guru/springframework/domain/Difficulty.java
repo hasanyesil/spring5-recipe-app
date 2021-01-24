@@ -2,5 +2,5 @@ package guru.springframework.domain;
 
 public enum Difficulty {
 
-    EASY,MODARATE,HARD
+    EASY,MODERATE,HARD
 }
